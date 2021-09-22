@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AnthonyApptio
+- 👀 I’m interested in Java, Go, Python, Kubernetes, Docker and all things tech.
+- 🌱 I’m currently learning Java, Go and Kubernetes
